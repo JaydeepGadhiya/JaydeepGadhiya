@@ -37,7 +37,8 @@ Building scalable Laravel applications, developer tools, and AI-powered systems.
 Security-focused Laravel package for detecting common vulnerabilities and improving application safety.
 
 🔗 Repo:
-https://github.com/JaydeepGadhiya/laravel-guarddog
+https://github.com/JaydeepGadhiya/laravel-guarddog 
+<br>
 https://github.com/JaydeepGadhiya/laravel-xray
 
 ---
