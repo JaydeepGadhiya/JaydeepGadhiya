@@ -38,6 +38,7 @@ Security-focused Laravel package for detecting common vulnerabilities and improv
 
 🔗 Repo:
 https://github.com/JaydeepGadhiya/laravel-guarddog
+https://github.com/JaydeepGadhiya/laravel-xray
 
 ---
 
