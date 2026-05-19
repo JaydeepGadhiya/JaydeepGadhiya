@@ -24,7 +24,7 @@ Building scalable Laravel applications, developer tools, and AI-powered systems.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql,mongodb,redis,nodejs,vue,js,git,docker,linux,vscode,phpstorm" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,redis,nodejs,vue,js,git,docker,linux,vscode,phpstorm" />
 
 </p>
 
