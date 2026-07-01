@@ -12,6 +12,21 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/JaydeepGadhiya/laravel-guarddog">
+    <img src="https://img.shields.io/github/stars/JaydeepGadhiya/laravel-guarddog?style=flat&label=guarddog%20%E2%98%85&color=f9c513" alt="laravel-guarddog stars" />
+  </a>
+  <a href="https://github.com/JaydeepGadhiya/laravel-preflight">
+    <img src="https://img.shields.io/github/stars/JaydeepGadhiya/laravel-preflight?style=flat&label=preflight%20%E2%98%85&color=f9c513" alt="laravel-preflight stars" />
+  </a>
+  <a href="https://github.com/JaydeepGadhiya/laravel-xray">
+    <img src="https://img.shields.io/github/stars/JaydeepGadhiya/laravel-xray?style=flat&label=xray%20%E2%98%85&color=f9c513" alt="laravel-xray stars" />
+  </a>
+  <a href="https://github.com/JaydeepGadhiya/toolforge">
+    <img src="https://img.shields.io/github/stars/JaydeepGadhiya/toolforge?style=flat&label=toolforge%20%E2%98%85&color=f9c513" alt="toolforge stars" />
+  </a>
+</p>
+
+<p align="center">
   Building scalable Laravel applications, developer security tools, and AI-powered real-time systems.
 </p>
 
@@ -76,23 +91,6 @@ A free, structured frontend development learning platform built for complete beg
 An HTML5 logic puzzle built with **Phaser 3** — drag each snake by its head or tail to slide it into the matching colored hole. 50 hand-tuned levels across 5 difficulty tiers, every one verified solvable by a BFS solver that also computes the optimal move count (par) for 3-star scoring. Includes unlimited undo, instant reset, and a solver-backed hint system. No timers, no fail state — pure planning. Mobile-ready via Capacitor (Android/iOS).
 
 [snake-puzzle-adventure.netlify.app](https://snake-puzzle-adventure.netlify.app)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaydeepGadhiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydeepGadhiya&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JaydeepGadhiya&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaydeepGadhiya&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</p>
 
 ---
 
