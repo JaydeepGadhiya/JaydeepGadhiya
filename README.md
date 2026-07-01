@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/JaydeepGadhiya">
-    <img src="https://komarev.com/ghpvc/?username=JaydeepGadhiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=JaydeepGadhiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Jaydeep Gadhiya GitHub profile views" />
   </a>
   <a href="https://github.com/JaydeepGadhiya?tab=followers">
     <img src="https://img.shields.io/github/followers/JaydeepGadhiya?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
@@ -12,18 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JaydeepGadhiya/laravel-guarddog">
-    <img src="https://img.shields.io/github/stars/JaydeepGadhiya/laravel-guarddog?style=flat&label=guarddog%20%E2%98%85&color=f9c513" alt="laravel-guarddog stars" />
-  </a>
-  <a href="https://github.com/JaydeepGadhiya/laravel-preflight">
-    <img src="https://img.shields.io/github/stars/JaydeepGadhiya/laravel-preflight?style=flat&label=preflight%20%E2%98%85&color=f9c513" alt="laravel-preflight stars" />
-  </a>
-  <a href="https://github.com/JaydeepGadhiya/laravel-xray">
-    <img src="https://img.shields.io/github/stars/JaydeepGadhiya/laravel-xray?style=flat&label=xray%20%E2%98%85&color=f9c513" alt="laravel-xray stars" />
-  </a>
-  <a href="https://github.com/JaydeepGadhiya/toolforge">
-    <img src="https://img.shields.io/github/stars/JaydeepGadhiya/toolforge?style=flat&label=toolforge%20%E2%98%85&color=f9c513" alt="toolforge stars" />
-  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Laravel%20Packages-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Open Source Laravel Packages" />
+  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Dev%20Tooling-0e75b6?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Experience-Senior%20%2F%20Team%20Lead-success?style=flat" alt="Experience" />
 </p>
 
 <p align="center">
@@ -33,6 +24,8 @@
 ---
 
 ## About Me
+
+**Jaydeep Gadhiya** is a Senior Laravel Developer, CI Developer, and Team Lead who builds open-source Laravel security packages, developer tools, and browser-based applications.
 
 - Senior Laravel Developer and Team Lead with hands-on experience in CI/CD pipelines and delivery workflows
 - Creator of Laravel security tooling — focused on vulnerability detection and application hardening
@@ -74,7 +67,7 @@ A suite of security-focused Laravel packages for detecting vulnerabilities, insp
 
 A free, browser-based developer toolkit — JSON formatter, Base64 encoder/decoder, UUID generator, hash tools, URL encoder, and many more utilities. No sign-up, runs entirely client-side.
 
-[![Source](https://img.shields.io/badge/Source-toolforge-181717?style=flat&logo=github)](https://github.com/JaydeepGadhiya/toolforge)
+[![Launch ToolForge](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Launch%20the%20Toolkit-ToolForge-0e75b6?style=for-the-badge)](https://jaydeepgadhiya.github.io/toolforge/)
 
 ---
 
@@ -82,7 +75,7 @@ A free, browser-based developer toolkit — JSON formatter, Base64 encoder/decod
 
 A free, structured frontend development learning platform built for complete beginners. Features 20 modules, 121 lessons, 10 real portfolio projects, 75+ interview questions, and 9 achievement badges across 7 learning zones (HTML, CSS, Bootstrap, JavaScript, jQuery, Practice, and Career) — all browser-based with no sign-up required.
 
-[codeyard.pages.dev](https://codeyard.pages.dev)
+[![Start Learning](https://img.shields.io/badge/%F0%9F%93%9A%20Start%20Learning-CodeYard-0e75b6?style=for-the-badge)](https://codeyard.pages.dev)
 
 ---
 
@@ -90,7 +83,7 @@ A free, structured frontend development learning platform built for complete beg
 
 An HTML5 logic puzzle built with **Phaser 3** — drag each snake by its head or tail to slide it into the matching colored hole. 50 hand-tuned levels across 5 difficulty tiers, every one verified solvable by a BFS solver that also computes the optimal move count (par) for 3-star scoring. Includes unlimited undo, instant reset, and a solver-backed hint system. No timers, no fail state — pure planning. Mobile-ready via Capacitor (Android/iOS).
 
-[snake-puzzle-adventure.netlify.app](https://snake-puzzle-adventure.netlify.app)
+[![Play Now](https://img.shields.io/badge/%F0%9F%8E%AE%20Play%20the%20Game-Snake%20Puzzle-0e75b6?style=for-the-badge)](https://snake-puzzle-adventure.netlify.app)
 
 ---
 
