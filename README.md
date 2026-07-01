@@ -47,19 +47,35 @@ A suite of security-focused Laravel packages for detecting vulnerabilities, insp
 [![Latest Version](https://img.shields.io/packagist/v/jaydeep/laravel-preflight?style=flat&label=preflight)](https://packagist.org/packages/jaydeep/laravel-preflight)
 [![Downloads](https://img.shields.io/packagist/dt/jaydeep/laravel-preflight?style=flat&color=brightgreen)](https://packagist.org/packages/jaydeep/laravel-preflight)
 
-| Package | Packagist | Source |
-|---|---|---|
-| laravel-guarddog | [packagist.org](https://packagist.org/packages/jaydeep/laravel-guarddog) | [GitHub](https://github.com/JaydeepGadhiya/laravel-guarddog) |
-| laravel-xray | [packagist.org](https://packagist.org/packages/jaydeep/laravel-xray) | [GitHub](https://github.com/JaydeepGadhiya/laravel-xray) |
-| laravel-preflight | [packagist.org](https://packagist.org/packages/jaydeep/laravel-preflight) | [GitHub](https://github.com/JaydeepGadhiya/laravel-preflight) |
+| Package | What it does | Packagist | Source |
+|---|---|---|---|
+| laravel-guarddog | Security scanner for SQL injection, missing auth middleware, and XSS risks | [packagist.org](https://packagist.org/packages/jaydeep/laravel-guarddog) | [GitHub](https://github.com/JaydeepGadhiya/laravel-guarddog) |
+| laravel-xray | Architecture visualization, dead code detection, and dependency mapping for large apps | [packagist.org](https://packagist.org/packages/jaydeep/laravel-xray) | [GitHub](https://github.com/JaydeepGadhiya/laravel-xray) |
+| laravel-preflight | Upgrade compatibility checker scanning for breaking changes across Laravel 8–13 | [packagist.org](https://packagist.org/packages/jaydeep/laravel-preflight) | [GitHub](https://github.com/JaydeepGadhiya/laravel-preflight) |
+
+---
+
+### ToolForge
+
+A free, browser-based developer toolkit — JSON formatter, Base64 encoder/decoder, UUID generator, hash tools, URL encoder, and many more utilities. No sign-up, runs entirely client-side.
+
+[![Source](https://img.shields.io/badge/Source-toolforge-181717?style=flat&logo=github)](https://github.com/JaydeepGadhiya/toolforge)
 
 ---
 
 ### CodeYard
 
-A free, structured frontend development learning platform built for complete beginners. Features 18 modules, 109 lessons, 10 real portfolio projects, and 75+ interview questions — all browser-based with no sign-up required.
+A free, structured frontend development learning platform built for complete beginners. Features 20 modules, 121 lessons, 10 real portfolio projects, 75+ interview questions, and 9 achievement badges across 7 learning zones (HTML, CSS, Bootstrap, JavaScript, jQuery, Practice, and Career) — all browser-based with no sign-up required.
 
 [codeyard.pages.dev](https://codeyard.pages.dev)
+
+---
+
+### Snake Puzzle Adventure
+
+An HTML5 logic puzzle built with **Phaser 3** — drag each snake by its head or tail to slide it into the matching colored hole. 50 hand-tuned levels across 5 difficulty tiers, every one verified solvable by a BFS solver that also computes the optimal move count (par) for 3-star scoring. Includes unlimited undo, instant reset, and a solver-backed hint system. No timers, no fail state — pure planning. Mobile-ready via Capacitor (Android/iOS).
+
+[snake-puzzle-adventure.netlify.app](https://snake-puzzle-adventure.netlify.app)
 
 ---
 
@@ -72,6 +88,10 @@ A free, structured frontend development learning platform built for complete beg
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JaydeepGadhiya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaydeepGadhiya&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
 
 ---
