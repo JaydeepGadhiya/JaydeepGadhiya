@@ -87,6 +87,14 @@ An HTML5 logic puzzle built with **Phaser 3** — drag each snake by its head or
 
 ---
 
+### GitHub Badges & Achievements
+
+An unofficial community guide to unlocking GitHub profile badges the legitimate way — with step-by-step instructions, difficulty ratings, and time estimates for each. Covers 7 badges (Pull Shark, Quickdraw, Pair Extraordinaire, YOLO, Galaxy Brain, Public Sponsor, and Starstruck), plus badge tiers, a 15-minute speedrun, retired badges, and an FAQ.
+
+[![View the Guide](https://img.shields.io/badge/%F0%9F%8F%86%20View%20the%20Guide-GitHub%20Badges-0e75b6?style=for-the-badge)](https://jaydeepgadhiya.github.io/github-badges-achievements)
+
+---
+
 ## Connect
 
 <p align="left">
