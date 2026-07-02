@@ -11,11 +11,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Laravel%20Packages-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Open Source Laravel Packages" />
   <img src="https://img.shields.io/badge/Focus-Security%20%26%20Dev%20Tooling-0e75b6?style=flat" alt="Focus" />
   <img src="https://img.shields.io/badge/Experience-Senior%20%2F%20Team%20Lead-success?style=flat" alt="Experience" />
-</p>
+</p> -->
 
 <p align="center">
   Building scalable Laravel applications, developer security tools, and AI-powered real-time systems.
