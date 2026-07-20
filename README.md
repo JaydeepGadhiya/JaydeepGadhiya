@@ -1,58 +1,41 @@
 <h1 align="center">Hi, I'm Jaydeep Gadhiya 👋</h1>
 
-<h3 align="center">Senior Laravel Developer &nbsp;•&nbsp; CI Developer &nbsp;•&nbsp; Team Lead</h3>
-
-<p align="center">
-  <a href="https://github.com/JaydeepGadhiya">
-    <img src="https://komarev.com/ghpvc/?username=JaydeepGadhiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Jaydeep Gadhiya GitHub profile views" />
-  </a>
-  <a href="https://github.com/JaydeepGadhiya?tab=followers">
-    <img src="https://img.shields.io/github/followers/JaydeepGadhiya?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  </a>
-</p>
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Laravel%20Packages-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Open Source Laravel Packages" />
-  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Dev%20Tooling-0e75b6?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Experience-Senior%20%2F%20Team%20Lead-success?style=flat" alt="Experience" />
-</p> -->
+<h3 align="center">Senior Laravel Developer &nbsp;•&nbsp; CI/CD Developer &nbsp;•&nbsp; Team Lead</h3>
 
 <p align="center">
   Building scalable Laravel applications, developer security tools, and AI-powered real-time systems.
 </p>
 
----
-
-## About Me
-
-**Jaydeep Gadhiya** is a Senior Laravel Developer, CI Developer, and Team Lead who builds open-source Laravel security packages, developer tools, and browser-based applications.
-
-- Senior Laravel Developer and Team Lead with hands-on experience in CI/CD pipelines and delivery workflows
-- Creator of Laravel security tooling — focused on vulnerability detection and application hardening
-- Interested in AI integration, SaaS architecture, and real-time communication systems
-- Working daily with Laravel, MongoDB, MySQL, Redis, WebSockets, and REST APIs
+<p align="center">
+  <a href="https://github.com/JaydeepGadhiya">
+    <img src="https://komarev.com/ghpvc/?username=JaydeepGadhiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/JaydeepGadhiya?tab=followers">
+    <img src="https://img.shields.io/github/followers/JaydeepGadhiya?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  </a>
+</p>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,redis,nodejs,vue,js,git,docker,linux,vscode,phpstorm" />
 </p>
 
 ---
 
-## Featured Projects
+## 📦 Open Source
 
-### Laravel Security Packages
+### 🛡️ Laravel Security Packages
 
 A suite of security-focused Laravel packages for detecting vulnerabilities, inspecting application internals, and validating deployment readiness.
 
-[![Latest Version](https://img.shields.io/packagist/v/jaydeep/laravel-guarddog?style=flat&label=guarddog)](https://packagist.org/packages/jaydeep/laravel-guarddog)
+[![guarddog](https://img.shields.io/packagist/v/jaydeep/laravel-guarddog?style=flat&label=guarddog)](https://packagist.org/packages/jaydeep/laravel-guarddog)
 [![Downloads](https://img.shields.io/packagist/dt/jaydeep/laravel-guarddog?style=flat&color=brightgreen)](https://packagist.org/packages/jaydeep/laravel-guarddog)
-[![Latest Version](https://img.shields.io/packagist/v/jaydeep/laravel-xray?style=flat&label=xray)](https://packagist.org/packages/jaydeep/laravel-xray)
+[![xray](https://img.shields.io/packagist/v/jaydeep/laravel-xray?style=flat&label=xray)](https://packagist.org/packages/jaydeep/laravel-xray)
 [![Downloads](https://img.shields.io/packagist/dt/jaydeep/laravel-xray?style=flat&color=brightgreen)](https://packagist.org/packages/jaydeep/laravel-xray)
-[![Latest Version](https://img.shields.io/packagist/v/jaydeep/laravel-preflight?style=flat&label=preflight)](https://packagist.org/packages/jaydeep/laravel-preflight)
+[![preflight](https://img.shields.io/packagist/v/jaydeep/laravel-preflight?style=flat&label=preflight)](https://packagist.org/packages/jaydeep/laravel-preflight)
 [![Downloads](https://img.shields.io/packagist/dt/jaydeep/laravel-preflight?style=flat&color=brightgreen)](https://packagist.org/packages/jaydeep/laravel-preflight)
 
 | Package | What it does | Packagist | Source |
@@ -61,43 +44,53 @@ A suite of security-focused Laravel packages for detecting vulnerabilities, insp
 | laravel-xray | Architecture visualization, dead code detection, and dependency mapping for large apps | [packagist.org](https://packagist.org/packages/jaydeep/laravel-xray) | [GitHub](https://github.com/JaydeepGadhiya/laravel-xray) |
 | laravel-preflight | Upgrade compatibility checker scanning for breaking changes across Laravel 8–13 | [packagist.org](https://packagist.org/packages/jaydeep/laravel-preflight) | [GitHub](https://github.com/JaydeepGadhiya/laravel-preflight) |
 
+### 🔍 Laravel Developer Tools
+
+Observability and profiling packages for understanding what your Laravel application does at runtime.
+
+[![time-machine](https://img.shields.io/packagist/v/jaydeep/laravel-time-machine?style=flat&label=time-machine)](https://packagist.org/packages/jaydeep/laravel-time-machine)
+[![Downloads](https://img.shields.io/packagist/dt/jaydeep/laravel-time-machine?style=flat&color=brightgreen)](https://packagist.org/packages/jaydeep/laravel-time-machine)
+[![queue-monitor](https://img.shields.io/packagist/v/jaydeep/laravel-queue-monitor?style=flat&label=queue-monitor)](https://packagist.org/packages/jaydeep/laravel-queue-monitor)
+[![Downloads](https://img.shields.io/packagist/dt/jaydeep/laravel-queue-monitor?style=flat&color=brightgreen)](https://packagist.org/packages/jaydeep/laravel-queue-monitor)
+
+| Package | What it does | Packagist | Source |
+|---|---|---|---|
+| laravel-time-machine | Request profiler and debugger with millisecond timelines, SQL query capture, and a Gantt-style dashboard | [packagist.org](https://packagist.org/packages/jaydeep/laravel-time-machine) | [GitHub](https://github.com/JaydeepGadhiya/laravel-timemachine) |
+| laravel-queue-monitor | Full queue job lifecycle tracking (pending/running/completed/failed) with a web dashboard and Artisan command | [packagist.org](https://packagist.org/packages/jaydeep/laravel-queue-monitor) | [GitHub](https://github.com/JaydeepGadhiya/laravel-queue-monitor) |
+
+### ⚡ Installation
+
+Install any package via Composer:
+
+```bash
+# Security tooling
+composer require jaydeep/laravel-guarddog --dev
+composer require jaydeep/laravel-xray --dev
+composer require jaydeep/laravel-preflight --dev
+
+# Developer tooling
+composer require jaydeep/laravel-time-machine --dev
+composer require jaydeep/laravel-queue-monitor
+```
+
+All packages support **Laravel 8–13** and **PHP 7.4–8.4**, with zero-config auto-discovery. See each package's README for usage details and available Artisan commands.
+
 ---
 
-### ToolForge
+## 🚀 Featured Projects
 
-A free, browser-based developer toolkit — JSON formatter, Base64 encoder/decoder, UUID generator, hash tools, URL encoder, and many more utilities. No sign-up, runs entirely client-side.
-
-[![Launch ToolForge](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Launch%20the%20Toolkit-ToolForge-0e75b6?style=for-the-badge)](https://jaydeepgadhiya.github.io/toolforge/)
-
----
-
-### CodeYard
-
-A free, structured frontend development learning platform built for complete beginners. Features 20 modules, 121 lessons, 10 real portfolio projects, 75+ interview questions, and 9 achievement badges across 7 learning zones (HTML, CSS, Bootstrap, JavaScript, jQuery, Practice, and Career) — all browser-based with no sign-up required.
-
-[![Start Learning](https://img.shields.io/badge/%F0%9F%93%9A%20Start%20Learning-CodeYard-0e75b6?style=for-the-badge)](https://codeyard.pages.dev)
+| Project | Description | Link |
+|---|---|---|
+| **ToolForge** | Free, browser-based developer toolkit — JSON formatter, Base64, UUID generator, hash tools, URL encoder, and more. Runs entirely client-side, no sign-up. | [Launch](https://jaydeepgadhiya.github.io/toolforge/) |
+| **CodeYard** | Free, structured frontend learning platform — 20 modules, 121 lessons, 10 portfolio projects, and 9 achievement badges across 7 zones. | [Start Learning](https://codeyard.pages.dev) |
+| **Snake Puzzle Adventure** | HTML5 logic puzzle built with Phaser 3 — 50 BFS-verified solvable levels, solver-backed hints, mobile-ready via Capacitor. | [Play](https://snake-puzzle-adventure.netlify.app) |
+| **GitHub Badges & Achievements** | Community guide to unlocking GitHub profile badges the legitimate way, with difficulty ratings and time estimates. | [View Guide](https://jaydeepgadhiya.github.io/github-badges-achievements) |
 
 ---
 
-### Snake Puzzle Adventure
+## 🤝 Connect
 
-An HTML5 logic puzzle built with **Phaser 3** — drag each snake by its head or tail to slide it into the matching colored hole. 50 hand-tuned levels across 5 difficulty tiers, every one verified solvable by a BFS solver that also computes the optimal move count (par) for 3-star scoring. Includes unlimited undo, instant reset, and a solver-backed hint system. No timers, no fail state — pure planning. Mobile-ready via Capacitor (Android/iOS).
-
-[![Play Now](https://img.shields.io/badge/%F0%9F%8E%AE%20Play%20the%20Game-Snake%20Puzzle-0e75b6?style=for-the-badge)](https://snake-puzzle-adventure.netlify.app)
-
----
-
-### GitHub Badges & Achievements
-
-An unofficial community guide to unlocking GitHub profile badges the legitimate way — with step-by-step instructions, difficulty ratings, and time estimates for each. Covers 7 badges (Pull Shark, Quickdraw, Pair Extraordinaire, YOLO, Galaxy Brain, Public Sponsor, and Starstruck), plus badge tiers, a 15-minute speedrun, retired badges, and an FAQ.
-
-[![View the Guide](https://img.shields.io/badge/%F0%9F%8F%86%20View%20the%20Guide-GitHub%20Badges-0e75b6?style=for-the-badge)](https://jaydeepgadhiya.github.io/github-badges-achievements)
-
----
-
-## Connect
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/JaydeepGadhiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-JaydeepGadhiya-181717?style=flat&logo=github" alt="GitHub" />
   </a>
