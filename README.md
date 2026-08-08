@@ -75,6 +75,27 @@ composer require jaydeep/laravel-queue-monitor
 
 All packages support **Laravel 8–13** and **PHP 7.4–8.4**, with zero-config auto-discovery. See each package's README for usage details and available Artisan commands.
 
+### 🟢 Node.js & Express Tooling
+
+Static analysis for Node.js and Express apps — parses actual code structure (scope trees, module graphs, route models) instead of matching patterns, so it catches bugs that normally only surface in production.
+
+[![npm](https://img.shields.io/npm/v/@jaydeepgadhiya/guarddog?style=flat&label=express-guarddog&color=cb3837)](https://www.npmjs.com/package/@jaydeepgadhiya/guarddog)
+[![Downloads](https://img.shields.io/npm/dt/@jaydeepgadhiya/guarddog?style=flat&color=brightgreen)](https://www.npmjs.com/package/@jaydeepgadhiya/guarddog)
+
+| Package | What it does | npm | Source |
+|---|---|---|---|
+| express-guarddog | 61 security rules across injection, Express, async, Mongoose, crypto, and logic — auth bypasses, unawaited promises, schema typos, unprotected routes, JWT misconfig — with severity/confidence scoring and HTML + JSON reports | [npmjs.com](https://www.npmjs.com/package/@jaydeepgadhiya/guarddog) | [GitHub](https://github.com/JaydeepGadhiya/express-guarddog) |
+
+```bash
+# Run it without installing
+npx @jaydeepgadhiya/guarddog scan
+
+# Or add it to the project
+npm install --save-dev @jaydeepgadhiya/guarddog
+```
+
+Zero config for **JavaScript, TypeScript, JSX, and TSX** on **Node 16+**, with CommonJS and ES module support. Accepted risks can be silenced with suppression comments.
+
 ---
 
 ## 🚀 Featured Projects
@@ -85,6 +106,24 @@ All packages support **Laravel 8–13** and **PHP 7.4–8.4**, with zero-config 
 | **CodeYard** | Free, structured frontend learning platform — 20 modules, 121 lessons, 10 portfolio projects, and 9 achievement badges across 7 zones. | [Start Learning](https://codeyard.pages.dev) |
 | **Snake Puzzle Adventure** | HTML5 logic puzzle built with Phaser 3 — 50 BFS-verified solvable levels, solver-backed hints, mobile-ready via Capacitor. | [Play](https://snake-puzzle-adventure.netlify.app) |
 | **GitHub Badges & Achievements** | Community guide to unlocking GitHub profile badges the legitimate way, with difficulty ratings and time estimates. | [View Guide](https://jaydeepgadhiya.github.io/github-badges-achievements) |
+
+---
+
+## 🌐 Community
+
+**DevNest** — a daily.dev Squad for developers sharing Laravel, PHP, DevOps, and open-source finds. Posts, discussions, and tools worth bookmarking, all in one feed.
+
+<p align="center">
+  <a href="https://daily.dev/squads/devnest" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20DevNest%20Squad-daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="Join DevNest on daily.dev" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://daily.dev/jaydeepgadhiya" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20daily.dev-@jaydeepgadhiya-1a1a1a?style=for-the-badge&logo=dailydotdev&logoColor=CE3DF3" alt="Follow Jaydeep Gadhiya on daily.dev" />
+  </a>
+</p>
 
 ---
 
@@ -105,6 +144,10 @@ All packages support **Laravel 8–13** and **PHP 7.4–8.4**, with zero-config 
   &nbsp;
   <a href="https://jaydeepgadhiya.blogspot.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-jaydeepgadhiya-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+  &nbsp;
+  <a href="https://daily.dev/jaydeepgadhiya" target="_blank">
+    <img src="https://img.shields.io/badge/daily.dev-jaydeepgadhiya-CE3DF3?style=flat&logo=dailydotdev&logoColor=white" alt="daily.dev" />
   </a>
   &nbsp;
   <a href="mailto:jaydeepgadhiya5699@gmail.com">
