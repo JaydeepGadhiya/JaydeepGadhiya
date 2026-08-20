@@ -3,7 +3,18 @@
 <h3 align="center">Senior Laravel Developer &nbsp;•&nbsp; CI/CD Developer &nbsp;•&nbsp; Team Lead</h3>
 
 <p align="center">
-  Building scalable Laravel applications, developer security tools, and AI-powered real-time systems.
+  <em>"I build Laravel apps &amp; the tools that debug them."</em>
+</p>
+
+<p align="center">
+  7+ years building scalable Laravel applications, developer security tooling, and AI-powered real-time systems.<br />
+  Based in Surat, India.
+</p>
+
+<p align="center">
+  <a href="https://jaydeepgadhiya.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-jaydeepgadhiya.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
@@ -20,12 +31,14 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,redis,nodejs,vue,js,git,docker,linux,vscode,phpstorm" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,redis,nodejs,express,vue,js,git,githubactions,docker,linux,vscode,phpstorm" />
 </p>
 
 ---
 
 ## 📦 Open Source
+
+Six MIT-licensed developer tools across the Laravel and Node.js ecosystems.
 
 ### 🛡️ Laravel Security Packages
 
@@ -102,6 +115,7 @@ Zero config for **JavaScript, TypeScript, JSX, and TSX** on **Node 16+**, with C
 
 | Project | Description | Link |
 |---|---|---|
+| **Portfolio** | The full rundown — packages, client work, skills, and experience since 2019. | [Visit](https://jaydeepgadhiya.netlify.app) |
 | **ToolForge** | Free, browser-based developer toolkit — JSON formatter, Base64, UUID generator, hash tools, URL encoder, and more. Runs entirely client-side, no sign-up. | [Launch](https://jaydeepgadhiya.github.io/toolforge/) |
 | **CodeYard** | Free, structured frontend learning platform — 20 modules, 121 lessons, 10 portfolio projects, and 9 achievement badges across 7 zones. | [Start Learning](https://codeyard.pages.dev) |
 | **Snake Puzzle Adventure** | HTML5 logic puzzle built with Phaser 3 — 50 BFS-verified solvable levels, solver-backed hints, mobile-ready via Capacitor. | [Play](https://snake-puzzle-adventure.netlify.app) |
@@ -130,16 +144,16 @@ Zero config for **JavaScript, TypeScript, JSX, and TSX** on **Node 16+**, with C
 ## 🤝 Connect
 
 <p align="center">
+  <a href="https://jaydeepgadhiya.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-jaydeepgadhiya.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://github.com/JaydeepGadhiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-JaydeepGadhiya-181717?style=flat&logo=github" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jaydeep-gadhiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-jaydeep--gadhiya-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://codeyard.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-codeyard.pages.dev-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   &nbsp;
   <a href="https://jaydeepgadhiya.blogspot.com" target="_blank">
